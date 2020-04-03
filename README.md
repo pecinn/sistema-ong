@@ -7,8 +7,8 @@ Para instalar as dependências utilizadas.
 # npm start no pacote backend
 Para inicializar o backend da aplicação
 
-#npm start no pacote frontend
+# npm start no pacote frontend
 Para inicializar o frontend da aplicação
 
-#Pacote Mobile
+# Pacote Mobile
 Para os testes durante o desenvolvimento, foi utilizado o aplicativo EXPO.
